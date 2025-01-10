@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(243, 107, 220);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ID {
+    font-size: 36px;
+    color: blue;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

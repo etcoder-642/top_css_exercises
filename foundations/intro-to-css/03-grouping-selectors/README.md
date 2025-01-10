@@ -8,7 +8,7 @@ This will help you further practice adding classes and using class selectors, so
 - **The second element**: a yellow background
 - **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
 
-## Desired Outcome
+## Desired Outcome 
 
 ![desired outcome](./desired-outcome.png)
 

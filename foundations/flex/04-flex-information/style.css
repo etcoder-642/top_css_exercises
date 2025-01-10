@@ -8,9 +8,29 @@ img {
 }
 
 .title {
+  width: 100%;
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin: 32px;
 }
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 52px;
+  flex-wrap: wrap;
+}
+
+.first, .second, .third, .fourth {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: 200px;
+}
+
+
 
 /* do not edit this footer */
 .footer {

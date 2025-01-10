@@ -1,6 +1,21 @@
+* {
+  min-width: none;
+}
+
 .header  {
+  display: flex;
   font-family: monospace;
   background: papayawhip;
+  justify-content: space-around;
+  min-width: none;
+  flex-wrap: wrap;
+}
+
+
+ul li{
+  display: inline;
+  margin-right: auto;
+  margin: auto;
 }
 
 .logo {
